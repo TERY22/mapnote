@@ -1,4 +1,4 @@
 export interface Coordinates {
-    latitube: string,
-    longitube: string,
+    latitube: number,
+    longitube: number,
 }
