@@ -1,3 +1,20 @@
-<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.09534 10L5.00021 7.63387L1.90508 10L3.09347 6.17875L0 3.82771H3.81927L5.00021 0L6.18114 3.82771H10L6.90694 6.17875L8.09534 10Z" fill="#D3D3D3"/>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="100%"
+  height="100%"
+  fill="currentColor"
+>
+  <g id="mn-star-icon">
+    <svg x="50%"
+         y="50%"
+         width="100%"
+         height="100%"
+         overflow="visible"
+         viewBox="0 0 32 30"
+         fill="none">
+      <svg x="-16" y="-15">
+        <path fill="currentColor" d="M25.9051 30L16.0007 22.9016L6.09625 30L9.89911 18.5363L0 11.4831H12.2217L16.0007 0L19.7796 11.4831H32L22.1022 18.5363L25.9051 30Z"/>
+      </svg>
+    </svg>
+  </g>
 </svg>
