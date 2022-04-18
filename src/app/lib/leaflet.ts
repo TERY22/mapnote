@@ -1,2 +1,1 @@
-export { Map as LeafletMap } from 'leaflet';
-
+export { Map as LeafletMap } from "leaflet"
