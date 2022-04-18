@@ -19,4 +19,3 @@ import { ShellComponent } from "./components/shell/shell.component"
 })
 export class ShellModule {
 }
- 
