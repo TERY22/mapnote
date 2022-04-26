@@ -1,18 +1,20 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { IconModule } from "../icon/icon.module"
-import { RatingComponent } from './rating.component';
+import { PhotosUploaderComponent } from './photos-uploader.component';
+
+
 
 @NgModule({
   declarations: [
-    RatingComponent
+    PhotosUploaderComponent
   ],
   exports: [
-    RatingComponent
+    PhotosUploaderComponent
   ],
   imports: [
     CommonModule,
     IconModule
   ]
 })
-export class RatingModule { }
+export class PhotosUploaderModule { }

@@ -1,4 +1,4 @@
 export interface Coordinates {
-    latitube: number,
-    longitube: number,
+  latitude: number
+  longitude: number
 }
